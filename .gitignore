@@ -3,11 +3,13 @@
 
 # remove DS_Store
 **/.DS_Store
+untrackfilrs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode
 
 # C extensions
 *.so
